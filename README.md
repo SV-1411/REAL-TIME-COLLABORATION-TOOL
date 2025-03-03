@@ -1,4 +1,4 @@
-Real-time Collaboration Tool
+# Real-time Collaboration Tool
 
 A web app for real-time document collaboration using WebSockets.
 
